@@ -2,10 +2,10 @@
 
 Դասավորվածությանները ստեղծված են Windows օպերացիոն համակարգում հայարենի և ռուսերենի հնչյունային գրելաձև ապահովելու համար։
 
-Նախատեսված են հետևյալ լուզեն/կոդավորումները՝
+Նախատեսված են հետևյալ լեզուները և կոդավորումները՝
 * Հայերեն յունիկոդ
 * Հայերեն ANSI
 * Ռուսերեն յունիկոդ
 * Ռուսերեն ANSI
 
-Դասավորվածությանները պատրաստված են [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) ծրագրով։
+Դասավորվածությանները պատրաստված են [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) ծրագրով։
